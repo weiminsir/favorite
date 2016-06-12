@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3rdparty/3rdparty.iml" filepath="$PROJECT_DIR$/3rdparty/3rdparty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdparty/Gpu-Image/Gpu-Image.iml" filepath="$PROJECT_DIR$/3rdparty/Gpu-Image/Gpu-Image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFavorite.iml" filepath="$PROJECT_DIR$/MyFavorite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdparty/SwipeMenuListView-master/SwipeMenuListView-master.iml" filepath="$PROJECT_DIR$/3rdparty/SwipeMenuListView-master/SwipeMenuListView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdparty/handmark_pulltorefresh/handmark_pulltorefresh.iml" filepath="$PROJECT_DIR$/3rdparty/handmark_pulltorefresh/handmark_pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdparty/SwipeMenuListView-master/library/library.iml" filepath="$PROJECT_DIR$/3rdparty/SwipeMenuListView-master/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3rdparty/stickercamera/stickercamera.iml" filepath="$PROJECT_DIR$/3rdparty/stickercamera/stickercamera.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+include ':app'
+include ':3rdparty:Gpu-Image'
+include ':3rdparty:stickercamera'
+include ':3rdparty:handmark_pulltorefresh'
+include ':3rdparty:SwipeMenuListView-master:library'

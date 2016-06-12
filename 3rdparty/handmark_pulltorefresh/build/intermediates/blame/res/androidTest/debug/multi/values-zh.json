@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 71,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 127,
+                    "endColumn": 75,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 75,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 59,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 59,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 66,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 66,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 63,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 63,
+                        "endOffset": 389
+                    }
+                }
+            }
+        ]
+    }
+]
