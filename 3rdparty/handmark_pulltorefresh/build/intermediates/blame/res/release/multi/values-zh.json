@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\build\\intermediates\\res\\merged\\release\\values-zh\\values-zh.xml",
+        "outputFile": "E:\\MySelf\\favorite\\3rdparty\\handmark_pulltorefresh\\build\\intermediates\\res\\merged\\release\\values-zh\\values-zh.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 122
                 },
                 "from": {
-                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
+                    "file": "E:\\MySelf\\favorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -30,7 +30,7 @@
                     "endOffset": 198
                 },
                 "from": {
-                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
+                    "file": "E:\\MySelf\\favorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
+                    "file": "E:\\MySelf\\favorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -68,7 +68,7 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
+                    "file": "E:\\MySelf\\favorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -87,7 +87,7 @@
                     "endOffset": 389
                 },
                 "from": {
-                    "file": "G:\\MyFavorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
+                    "file": "E:\\MySelf\\favorite\\3rdparty\\handmark_pulltorefresh\\res\\values-zh\\pull_refresh_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
