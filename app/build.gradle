@@ -45,6 +45,7 @@ dependencies {
     //fresco
     compile 'com.facebook.fresco:fresco:0.10.0'
     compile files('libs/android-butterknife-zelezny.jar')
-	//androidUtils
-	compile 'com.wuxiaolong.androidutils:androidutils:1.0.2'
+    //androidUtils
+    compile 'com.wuxiaolong.androidutils:androidutils:1.0.2'
+    compile files('libs/AMap_2DMap_v2.6.0_20150916.jar')
 }
