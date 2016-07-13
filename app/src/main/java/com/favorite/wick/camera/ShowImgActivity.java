@@ -23,17 +23,17 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 public class ShowImgActivity extends AppCompatActivity {
 
-    @Bind(R.id.gallery)
+    @BindView(R.id.gallery)
     protected Button mGallery;
-    @Bind(R.id.camera)
+    @BindView(R.id.camera)
     Button mCamera;
-    @Bind(R.id.imageView)
+    @BindView(R.id.imageView)
     ImageView mImageView;
 
 

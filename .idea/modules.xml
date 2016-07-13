@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/favorite.iml" filepath="$PROJECT_DIR$/favorite.iml" />
       <module fileurl="file://$PROJECT_DIR$/3rdparty/handmark_pulltorefresh/handmark_pulltorefresh.iml" filepath="$PROJECT_DIR$/3rdparty/handmark_pulltorefresh/handmark_pulltorefresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/3rdparty/SwipeMenuListView-master/library/library.iml" filepath="$PROJECT_DIR$/3rdparty/SwipeMenuListView-master/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/3rdparty/stickercamera/stickercamera.iml" filepath="$PROJECT_DIR$/3rdparty/stickercamera/stickercamera.iml" />
     </modules>
   </component>

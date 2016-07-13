@@ -18,4 +18,5 @@
     多年来，百度董事长兼CEO李彦宏，率领百度人所形成的“简单可依赖”的核心文化，深深地植根于百度。这是一个充满朝气、求实坦诚的公司，以搜索改变生活，推动人类的文明与进步，促进中国经济的发展为己任，正朝着更为远大的目标而迈进。</string>
     <string name="title_activity_scroll_testt">ScrollTesttActivity</string>
     <string name="title_activity_annotation">AnnotationActivity</string>
+    <string name="title_activity_new_map">NewMapActivity</string>
 </resources>

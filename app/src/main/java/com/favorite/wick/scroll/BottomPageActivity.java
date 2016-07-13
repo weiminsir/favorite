@@ -16,13 +16,13 @@ import com.roughike.bottombar.OnMenuTabClickListener;
 import java.util.ArrayList;
 import java.util.List;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 
 public class BottomPageActivity extends FragmentActivity {
-    @Bind(R.id.viewPager)
+    @BindView(R.id.viewPager)
     ViewPager viewPager;
-    @Bind(R.id.myCoordinator)
+    @BindView(R.id.myCoordinator)
     CoordinatorLayout myCoordinator;
 
     private BottomBar mBottomBar;

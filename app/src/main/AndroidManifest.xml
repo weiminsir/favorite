@@ -1,37 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.favorite.wick" >
+    package="com.favorite.wick">
+
+    <!-- //地图包、搜索包需要的基础权限 -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- //定位包、导航包需要的额外权限（注：基础权限也需要） -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="0a06e533c8938285499098ded17fec1e" />
+
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name" >
-
-        </activity>
+            android:label="@string/app_name"></activity>
         <activity
             android:name=".camera.ShowImgActivity"
-            android:label="@string/title_activity_show_img" >
-        </activity>
+            android:label="@string/title_activity_show_img"></activity>
         <activity
             android:name=".scroll.BottomPageActivity"
-            android:label="@string/title_activity_bottom_page" >
-        </activity>
-        <activity
-            android:name=".scroll.ScrollTestActivity"
-            android:label="@string/title_activity_scroll_testt" >
-        </activity>
-        <activity
-            android:name=".annotation.AnnotationActivity"
-            android:label="@string/title_activity_annotation" >
+            android:label="@string/title_activity_bottom_page">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".scroll.ScrollTestActivity"
+            android:label="@string/title_activity_scroll_testt"></activity>
+        <activity
+            android:name=".annotation.AnnotationActivity"
+            android:label="@string/title_activity_annotation"></activity>
+        <activity android:name=".map.MyMapActivity">
+
+        </activity>
+        <activity
+            android:name=".map.NewMapActivity"
+            android:label="@string/title_activity_new_map">
+
+
+
         </activity>
     </application>
 
